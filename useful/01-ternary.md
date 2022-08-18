@@ -30,7 +30,7 @@ console.log(text);
 조건 ? true일때 : false일때
 ```
 
-라인의 길이가 너묵 길어진다면 다음과 같이 작성하기도 합니다.
+라인의 길이가 너무 길어진다면 다음과 같이 작성하기도 합니다.
 
 ```javascript
 const array = [];
